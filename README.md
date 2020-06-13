@@ -5,11 +5,14 @@
 ## スレッドLink
 
 ### 元スレッド  
-オケラ電凸YouTube配信  
-http://swallow.5ch.net/test/read.cgi/livejupiter/1592054539/
+
+- [オケラ電凸YouTube配信@5ch](http://swallow.5ch.net/test/read.cgi/livejupiter/1592054539/)
+- [オケラ電凸YouTube配信 Part.2@5ch](http://swallow.5ch.net/test/read.cgi/livejupiter/1592057696/)
+
 
 ### ログ保存先  
-[1592054539.html](./1592054539.html)
+- [【ログ】オケラ電凸YouTube配信@5ch](./1592054539.html) by GitHub Pages
+- [【ログ】オケラ電凸YouTube配信 Part.2@5ch](./1592057696.html) by GitHub Pages
 
 
 ## オケラ氏関係Link
