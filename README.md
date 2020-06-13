@@ -6,7 +6,7 @@
 
 元スレッド  
 オケラ電凸YouTube配信  
-http://swallow.2ch.net/test/read.cgi/livejupiter/1592054539/  
+http://swallow.5ch.net/test/read.cgi/livejupiter/1592054539/  
 
 ログ保存先  
 [1592054539.html](./1592054539.html)
